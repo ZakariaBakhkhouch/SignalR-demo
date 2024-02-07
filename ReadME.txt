@@ -1,1 +1,1 @@
-- SignalR demo web app
+- SignalR web app
